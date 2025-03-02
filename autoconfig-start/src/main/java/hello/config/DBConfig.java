@@ -16,7 +16,7 @@ public class DBConfig {
 
     @Bean
     public DataSource dataSource() {
-        log.info("dataSource 빈 등록");
+        log.info("dataSource 빈 등록 테스트");
         HikariDataSource hikariDataSource = new HikariDataSource();
         hikariDataSource.setDriverClassName("org.h2.Driver");
         hikariDataSource.setJdbcUrl("jdbc:h2:mem:test");
