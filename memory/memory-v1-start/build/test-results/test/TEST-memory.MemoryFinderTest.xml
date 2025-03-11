@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="memory.MemoryFinderTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-03-11T14:00:57" hostname="gimseonghun-ui-MacBookPro-2.local" time="0.063">
+  <properties/>
+  <testcase name="get()" classname="memory.MemoryFinderTest" time="0.063"/>
+  <system-out><![CDATA[memoryMemory{used=14034432, max=536870912}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
