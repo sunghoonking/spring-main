@@ -46,6 +46,14 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/memory/memory-v2-start" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/memory/memory-v2-start" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/memory/project-v1-start" />
         <option name="modules">
           <set>

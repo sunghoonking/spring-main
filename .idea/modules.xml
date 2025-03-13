@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/autoconfig.main.iml" filepath="$PROJECT_DIR$/.idea/modules/autoconfig.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/autoconfig.test.iml" filepath="$PROJECT_DIR$/.idea/modules/autoconfig.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/memory-v2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/memory-v2.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-main.iml" filepath="$PROJECT_DIR$/.idea/spring-main.iml" />
     </modules>
   </component>
